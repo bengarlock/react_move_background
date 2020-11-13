@@ -1,0 +1,19 @@
+.Container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    resize: none;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+.Video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+  }
